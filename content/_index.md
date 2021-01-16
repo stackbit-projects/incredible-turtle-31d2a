@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Rinnova la tua caldaia
+    title: Rinnova la TUA caldaia
     image: images/5.jpg
     content: >
       Assistenza su caldaie, condizionamento, pompe di calore e

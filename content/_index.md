@@ -8,7 +8,7 @@ sections:
       Assistenza su caldaie, condizionamento, pompe di calore e
       termoregolazione.
     actions:
-      - label: Get Started
+      - label: Contattaci
         url: /docs
         style: primary
   - section_id: features

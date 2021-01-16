@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: Rinnova la tua caldaia
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Assistenza su caldaie, condizionamento, pompe di calore e
+      termoregolazione.
     actions:
       - label: Get Started
         url: /docs

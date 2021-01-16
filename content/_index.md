@@ -4,7 +4,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: Rinnova la TUA caldaia
-    image: images/VsOrizzontaleRGB.png
     content: >
       Assistenza su caldaie, condizionamento, pompe di calore e
       termoregolazione.

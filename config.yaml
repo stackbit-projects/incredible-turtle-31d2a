@@ -4,7 +4,7 @@ params:
   palette: blue
   header:
     title: Libris
-    logo_img: images/logo.svg
+    logo_img: images/maroon-mustard.png
     logo_img_alt: Libris logo
     has_nav: true
     nav_links:
